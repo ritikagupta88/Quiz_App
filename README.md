@@ -1,4 +1,4 @@
-# Quiz_App
+# CODETECH Task2
 <br>
 Name: Ritika Gupta<br>
 Company: CODTECH IT SOLUTIONS<br>
@@ -23,8 +23,8 @@ Real-time Feedback: Provides instant feedback on answers or quiz progress throug
 Progress Tracking: Displays current progress within the quiz, including how many questions have been answered and how many are left.</br>
 
 <h2>Development Process:</h2>
-Design
-Framework Integration
-Testing
-Deployment
-Maintenance
+Design</br>
+Framework Integration</br>
+Testing</br>
+Deployment</br>
+Maintenance</br>
