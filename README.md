@@ -5,6 +5,7 @@ Company: CODTECH IT SOLUTIONS<br>
 Id:CT08DS4707<br>
 Domain: Frontend Web Development<br>
 Duration: July to august 2024<br>
+Mentor name: Muzammil Ahmed
 
 <h1>Overview of the Project</h1><br>
 
